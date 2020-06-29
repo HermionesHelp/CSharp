@@ -8,25 +8,25 @@ namespace Dictionaries.Hints
     {
         /* We're going on an adventure! But before we can go we have to pack our inventory for the journey. 
 
-To go on our adventure we have 500 Gold, a flint, a rope, 2 healing potions, a dagger, a bedroll, 
-a loaf of bread, and a tin whistle. 
+        To go on our adventure we have 500 Gold, a flint, a rope, 2 healing potions, a dagger, a bedroll, 
+        a loaf of bread, and a tin whistle. 
 
-1. Create a dictonary called "inventory" that contains each of these items and their values
+        1. Create a dictonary called "inventory" that contains each of these items and their values
 
-     Your dictionary will contain keys for each item and values for the amount of each item.
+             Your dictionary will contain keys for each item and values for the amount of each item.
 
-2. Log the contents of your inventory displaying the items and how many of each you have.
+        2. Log the contents of your inventory displaying the items and how many of each you have.
 
-    You will need a foreach loop to do this. 
+            You will need a foreach loop to do this. 
 
-*/
+        */
 
 
         /* As your adventure goes on your party reaches a shop. Now is a good time to restock.
          Your inventory can hold 10 items (counted by Key not by Value). 
 
         The shop currently has an unlimited amount of each item. 
-        Load of Bread - 2 gold
+        Loaf of Bread - 2 gold
         Ham Hock - 5 gold
         Long Sword - 100 gold
         Short Bow - 75 gold
@@ -46,7 +46,7 @@ a loaf of bread, and a tin whistle.
 
                 You can update an already existing Key's value by reassigning it. 
 
-            - remember it can only hold 10 items so if you bouy the backpack you can add items there
+            - remember it can only hold 10 items so if you buy the backpack you can add items there
             .... which means making a new dictionary.
 
                 The .Add method calls your dictionary and then passes the information you're adding as an argument.

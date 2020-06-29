@@ -20,7 +20,7 @@ namespace PracticeExercises
              Your inventory can hold 10 items (counted by Key not by Value). 
              
             The shop currently has an unlimited amount of each item. 
-            Load of Bread - 2 gold
+            Loaf of Bread - 2 gold
             Ham Hock - 5 gold
             Long Sword - 100 gold
             Short Bow - 75 gold
@@ -33,7 +33,7 @@ namespace PracticeExercises
                 - If you purchase more of an item you already have be sure to update that value instead of adding 
                 a new item to your storage. No need to take up a valuable slot.
 
-                - remember it can only hold 10 items so if you bouy the backpack you can add items there
+                - remember it can only hold 10 items so if you buy the backpack you can add items there
                 .... which means making a new dictionary. 
 
             5. Log the contents of your inventory (and backpack if you have one) 
