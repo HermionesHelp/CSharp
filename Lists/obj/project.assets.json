@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Dev\\.nuget\\packages\\": {}
+    "C:\\Users\\Gypsy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dev\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\Lists.csproj",
+      "projectUniqueName": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\Lists.csproj",
       "projectName": "Lists",
-      "projectPath": "C:\\Users\\Dev\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\Lists.csproj",
-      "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dev\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\obj\\",
+      "projectPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\Lists.csproj",
+      "packagesPath": "C:\\Users\\Gypsy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gypsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

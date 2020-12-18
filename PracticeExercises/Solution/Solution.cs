@@ -6,8 +6,8 @@ namespace Dictionaries.Solution
 {
     class Solution
     {
-       /* static void Main(string[] args)
-        {
+        static void Main(string[] args)
+        {/*
             // 1.
             Dictionary<string, int> inventory = new Dictionary<string, int>
             {
@@ -70,7 +70,7 @@ namespace Dictionaries.Solution
             else
             {
                 Console.WriteLine("FIREBALL!!!");
-            }
+            }*/
         }
-    }*/
+    }
 }

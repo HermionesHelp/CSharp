@@ -13,7 +13,7 @@ namespace Dictionaries.Hints
 
         1. Create a dictonary called "inventory" that contains each of these items and their values
 
-             Your dictionary will contain keys for each item and values for the amount of each item.
+             Your dictionary will contain keys for the name each item and values for the amount of each item.
 
         2. Log the contents of your inventory displaying the items and how many of each you have.
 
@@ -47,9 +47,9 @@ namespace Dictionaries.Hints
                 You can update an already existing Key's value by reassigning it. 
 
             - remember it can only hold 10 items so if you buy the backpack you can add items there
-            .... which means making a new dictionary.
+            ... which means making a new dictionary.
 
-                The .Add method calls your dictionary and then passes the information you're adding as an argument.
+                When using the .Add method don't forget to call your dictionary, and then pass the information you're adding as an argument.
 
         5. Log the contents of your inventory (and backpack if you have one) 
 
@@ -57,7 +57,7 @@ namespace Dictionaries.Hints
 
         6. Display a Count of the number of items in your inventory(& backpack).
 
-            Don't forget to check out the chapter for Methods and Properties of dictionaries. 
+            Don't forget to check out the chapter for Methods and Properties of dictionaries. (3.6.1)
               https://education.launchcode.org/csharp-web-development/chapters/control-flow-and-collections/dictionary.html
 
         */
@@ -81,7 +81,8 @@ namespace Dictionaries.Hints
         9. Search your inventory to see if it contains a Small Silver Key. If it does the witch will tell you "You may pass."
          If not she will cast "Fireball" at you. 
 
-            This is a great place for an If statement. 
+            This is a great place for an If statement to handle searching your inventory (and backpack if you have one) and what will happen if 
+          you don't meet her requirements. 
 
          */
 

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dev\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj": {}
+    "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dev\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj": {
+    "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj",
+        "projectUniqueName": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj",
         "projectName": "Dictionaries",
-        "projectPath": "C:\\Users\\Dev\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj",
-        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\obj\\",
+        "projectPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj",
+        "packagesPath": "C:\\Users\\Gypsy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gypsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
