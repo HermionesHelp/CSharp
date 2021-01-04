@@ -5,7 +5,7 @@ using System.Text;
 namespace Objects.Solution
 {
     /*class Shop
-    {
+    {   
         public string Name { get; private set; }
         public Item[] Inventory { get; private set; }
 
@@ -14,6 +14,10 @@ namespace Objects.Solution
             Name = name;
             Inventory = inventory;
         }
+
+
+        **The RunShop method does most of the heavy lifting in this class. It handles introducing the shop to your user, and calls the other methods in the class 
+        to display the inventory and allow you to buy items from the shop. **
 
         public void RunShop()
         {
@@ -30,6 +34,10 @@ namespace Objects.Solution
             }
         }
 
+        ** The GetInventory method is going to do the work of accessing the Item objects that you create and add to your inventory. Here is where you'll find all the properties
+        that you'll need to make sure that your Item class has in order for things to work. **
+
+
         public void GetInventory(Item[] inventory)
         {
             foreach (Item item in inventory)
@@ -38,6 +46,8 @@ namespace Objects.Solution
             }
 
         }
+
+        ** The SellItem method allows the shop to alter the quantity property of the items in the inventory. 
 
         public void SellItem(Item[] inventory)
         {

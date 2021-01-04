@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Objects.Solution
 {
-    class Program
+   /* class Program
     {
         static void Main(string[] args)
         {
@@ -19,5 +19,5 @@ namespace Objects.Solution
             ourShop.RunShop();
         }
 
-    }
+    }*/
 }

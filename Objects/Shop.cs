@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Objects.Solution
 {
-    /*class Shop
+    class Shop
     {
         public string Name { get; private set; }
         public Item[] Inventory { get; private set; }
@@ -74,5 +74,5 @@ namespace Objects.Solution
                 }
             }
         }
-    }*/
+    }
 }
