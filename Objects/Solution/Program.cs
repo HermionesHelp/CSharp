@@ -16,7 +16,7 @@ namespace Objects.Solution
 
             Shop ourShop = new Shop("Bilbo's Knicknacks", inventory);
 
-            ourShop.ShopGreeting();
+            ourShop.RunShop();
         }
 
     }
