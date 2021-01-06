@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Objects.Solution
+namespace Classes.Solution
 {
-/*    class Item
+    class Item
     {
         public string Name { get; private set; }
         public string Description { get; private set; }
@@ -19,5 +19,5 @@ namespace Objects.Solution
             Price = price;
         }
 
-    }*/
+    }
 }

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Objects.Solution
+namespace namespace Classes.Solution
 {
-   /* class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -19,5 +19,5 @@ namespace Objects.Solution
             ourShop.RunShop();
         }
 
-    }*/
+    }
 }

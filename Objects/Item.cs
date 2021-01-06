@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Objects
+namespace Classes
 {
-    class Item
+/*    class Item
     {
-        /* 
+        *//* 
         As you can see you have existing code to make a shop run. Take a look at that code because your job is going to be to write a class that will work with that code. 
 
         ** this one is a little more complex than the others, but your Hints folder will only have some hints as to what's going on with the already established code, not what you need to do.**
@@ -18,6 +18,6 @@ namespace Objects
 
         Then you'll need to make some objects inside your program class. 
 
-         */
-    }
+         *//*
+    }*/
 }

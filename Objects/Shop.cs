@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Objects.Solution
+namespace Classes
 {
-    class Shop
+   /* class Shop
     {
         public string Name { get; private set; }
         public Item[] Inventory { get; private set; }
@@ -74,5 +74,5 @@ namespace Objects.Solution
                 }
             }
         }
-    }
+    }*/
 }
